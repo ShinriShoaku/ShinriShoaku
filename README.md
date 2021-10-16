@@ -1,28 +1,30 @@
 ### Hi there 👋  I'm Shinri
 
+I work as a mobile developer. 
 
-<?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="AmeBot" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
-  <component name="FacetManager">
-    <facet type="java-gradle" name="Java-Gradle">
-      <configuration>
-        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
-        <option name="BUILDABLE" value="false" />
-      </configuration>
-    </facet>
-  </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
+Designing, developing and implementing all the mobile apps you use every day is hard.
+Discuss client's proposed requirements and offer solutions to colleagues.
+Develop application programming interfaces (APIs) to support mobile functionality to stay up-to-date with technology, concepts, and best practices for coding mobile applications.
+Use, move, and adapt existing applications for more practical use in a mobile form.
+Code, test, debug and monitor document changes for mobile apps.
 
-### What I'm focusing on 👨‍💻
+hah..., I wish I could live like this normally.
 
+### What am i doing now? 👨‍💻
+
+Some manga and light novels are still unread, so I'll focus on that, and made my first game.
+
+### If opportunity does not come to you, then create it!🌱
+
+Dogs are entered to compete with cheetahs, the goal is to find out who is faster.
+Everyone was shocked that the cheetah didn't move from its place, they asked the race coordinator what happened!?
+Sometimes trying to prove that you are the best is an insult.
+We don't need to go down to someone else's level, to make him understand that we are the strongest.
+"Think hard" and "save your energy" for what you deserve.
+Cheetahs use their speed to hunt. Only for "Hunting"
+not to prove to the dog who is faster and stronger.
+
+"DON'T WASTE YOUR TIME TO PROVE YOUR VALUES"
 <!--
 **ShinriShoaku/ShinriShoaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appeiars on your GitHub profile.
 
